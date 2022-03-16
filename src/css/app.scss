@@ -1,1 +1,35 @@
 // app global css in SCSS form
+.brx {
+  border: 1px solid red;
+}
+.bry {
+  border: 1px solid green;
+}
+// ----------  font ----------
+.font24 {
+  font-size: 24px;
+}
+.font18 {
+  font-size: 18px;
+}
+.font16 {
+  font-size: 16px;
+}
+.font14 {
+  font-size: 14px;
+}
+.font12 {
+  font-size: 12px;
+}
+.fontU {
+  text-decoration: underline;
+}
+.fontB {
+  font-weight: bold;
+}
+.fontB700 {
+  font-weight: 700;
+}
+.textWhite {
+  color: white;
+}
