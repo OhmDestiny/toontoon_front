@@ -9,10 +9,14 @@
         <div class="col-1 brx">
           <img src="~assets/toontoonicon.png" alt="" style="width: 70px" />
         </div>
-        <div class="col-2 font18 textCategory">ชั้นหนังสือ</div>
-        <div class="col-2 font18 textCategory">ยอดนิยม</div>
-        <div class="col-2 font18 textCategory">การ์ตูนออกใหม่</div>
-        <div class="col-2 font18 textCategory">อ่านล่าสุด</div>
+        <div style="width: 20px"></div>
+        <div class="col-1 font18 textCategory">ชั้นหนังสือ</div>
+        <div style="width: 20px"></div>
+        <div class="col-1 font18 textCategory">ยอดนิยม</div>
+        <div style="width: 20px"></div>
+        <div class="col-1 font18 textCategory">การ์ตูนออกใหม่</div>
+        <div style="width: 20px"></div>
+        <div class="col-1 font18 textCategory">อ่านล่าสุด</div>
       </div>
     </div>
 
