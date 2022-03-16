@@ -5,14 +5,14 @@
       class="desktop-only shadow-6"
       style="max-width: 1600px; width: 100%; margin: auto"
     >
-      <div class="bgHeadBar row" align="center">
-        <div class="col-1">
-          <q-img src="../../assets/tootoonicon.png" alt="" />
+      <div class="bgHeadBar row items-center" align="center">
+        <div class="col-1 brx">
+          <img src="~assets/toontoonicon.png" alt="" style="width: 70px" />
         </div>
-        <div class="col-2"></div>
-        <div class="col-2"></div>
-        <div class="col-2"></div>
-        <div class="col-2"></div>
+        <div class="col-2 font18 textCategory">ชั้นหนังสือ</div>
+        <div class="col-2 font18 textCategory">ยอดนิยม</div>
+        <div class="col-2 font18 textCategory">การ์ตูนออกใหม่</div>
+        <div class="col-2 font18 textCategory">อ่านล่าสุด</div>
       </div>
     </div>
 
@@ -35,5 +35,8 @@ export default {};
   height: 65px;
   width: 100%;
   max-width: 1400px;
+}
+.textCategory {
+  color: #f6f7fb;
 }
 </style>
