@@ -1,6 +1,7 @@
 <template>
   <div>
     <head-bar></head-bar>
+    <ad-banner></ad-banner>
   </div>
 </template>
 

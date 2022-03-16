@@ -6,7 +6,7 @@
       style="max-width: 1600px; width: 100%; margin: auto"
     >
       <div class="bgHeadBar row items-center" align="center">
-        <div class="col-1 brx">
+        <div class="col-1">
           <img src="~assets/toontoonicon.png" alt="" style="width: 70px" />
         </div>
         <div class="col-2 font18 textCategory">ชั้นหนังสือ</div>
