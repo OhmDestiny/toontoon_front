@@ -6,17 +6,25 @@
       style="max-width: 1600px; width: 100%; margin: auto"
     >
       <div class="bgHeadBar row items-center" align="center">
-        <div class="col-1 brx">
+        <div class="col-1 cursor-pointer">
           <img src="~assets/toontoonicon.png" alt="" style="width: 70px" />
         </div>
-        <div style="width: 20px"></div>
-        <div class="col-1 font18 textCategory">ชั้นหนังสือ</div>
-        <div style="width: 20px"></div>
-        <div class="col-1 font18 textCategory">ยอดนิยม</div>
-        <div style="width: 20px"></div>
-        <div class="col-1 font18 textCategory">การ์ตูนออกใหม่</div>
-        <div style="width: 20px"></div>
-        <div class="col-1 font18 textCategory">อ่านล่าสุด</div>
+        <div style="width: 50px"></div>
+        <div class="col-1 font18 textAllColor">ชั้นหนังสือ</div>
+        <div style="width: 50px"></div>
+        <div class="col-1 font18 textAllColor">ยอดนิยม</div>
+        <div style="width: 50px"></div>
+        <div class="col-1 font18 textAllColor">การ์ตูนออกใหม่</div>
+        <div style="width: 50px"></div>
+        <div class="col-1 font18 textAllColor">อ่านล่าสุด</div>
+        <div class="col"></div>
+        <div class="row textAllColor items-center" align="right">
+          <q-input dark v-model="searchBar" dense style="width: 240px" />
+          <q-icon size="20px " name="fa-solid fa-magnifying-glass" />
+        </div>
+        <div class="q-ma-md q-pt-xs bgLightIcon" align="center">
+          <q-icon size="25px" name="fa-solid fa-lightbulb" />
+        </div>
       </div>
     </div>
 
@@ -29,7 +37,13 @@
 </template>
 
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      searchBar: "",
+    };
+  },
+};
 </script>
 
 <style lang="scss" scoped>
@@ -40,7 +54,11 @@ export default {};
   width: 100%;
   max-width: 1400px;
 }
-.textCategory {
-  color: #f6f7fb;
+.bgLightIcon {
+  cursor: pointer;
+  width: 31px;
+  height: 31px;
+  background: #f6f7fb;
+  border-radius: 10px;
 }
 </style>

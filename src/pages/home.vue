@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mainBg">
     <head-bar></head-bar>
     <promotion></promotion>
     <manga-box-new-comer></manga-box-new-comer>
@@ -34,4 +34,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.mainBg {
+  background: #121212;
+}
+</style>
