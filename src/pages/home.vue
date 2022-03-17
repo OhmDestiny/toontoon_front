@@ -1,10 +1,10 @@
 <template>
-  <div>
+  <div class="mainBg">
     <head-bar></head-bar>
     <promotion></promotion>
     <manga-box-new-comer></manga-box-new-comer>
-    <!-- <continue-reading-box></continue-reading-box> -->
-    <!-- <ad-banner></ad-banner> -->
+    <continue-reading-box></continue-reading-box>
+    <ad-banner></ad-banner>
     <popular-box></popular-box>
     <tag></tag>
     <preview-box></preview-box>
@@ -34,4 +34,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.mainBg {
+  background: #121212;
+}
+</style>

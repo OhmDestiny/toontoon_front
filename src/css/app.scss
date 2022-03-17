@@ -1,4 +1,8 @@
 // app global css in SCSS form
+@import url("https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+body {
+  font-family: "prompt";
+}
 .brx {
   border: 1px solid red;
 }
@@ -32,4 +36,8 @@
 }
 .textWhite {
   color: white;
+}
+.textAllColor {
+  color: #f6f7fb;
+  cursor: pointer;
 }
