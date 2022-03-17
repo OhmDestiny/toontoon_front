@@ -8,7 +8,9 @@
       <div class="newcommerbg">
         <div class="row">
           <div class="col text q-pl-md">มาใหม่</div>
-          <div class="col-1 textmore" align="right">เพิ่มเติม ></div>
+          <div class="col-1 textmore cursor-pointer" align="right">
+            เพิ่มเติม >
+          </div>
         </div>
 
         <!-- bleach -->
@@ -16,7 +18,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/bleach.png"
+              src="~assets/newcommerpicture/bleach.png"
               alt="bleach"
               style="height: 320px"
             />
@@ -40,7 +42,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/dragonball.png"
+              src="~assets/newcommerpicture/dragonball.png"
               alt="dragonball"
               style="height: 320px"
             />
@@ -64,7 +66,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/onepiece.png"
+              src="~assets/newcommerpicture/onepiece.png"
               alt="onepiece"
               style="height: 320px"
             />
@@ -88,7 +90,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/onepunchman.png"
+              src="~assets/newcommerpicture/onepunchman.png"
               alt="onepunchman"
               style="height: 320px"
             />
@@ -112,7 +114,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/rooftop.png"
+              src="~assets/newcommerpicture/rooftop.png"
               alt="rooftop"
               style="height: 320px"
             />
@@ -139,7 +141,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/baki.png"
+              src="~assets/newcommerpicture/baki.png"
               alt="baki"
               style="height: 320px"
             />
@@ -163,7 +165,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/monster.png"
+              src="~assets/newcommerpicture/monster.png"
               alt="remonster"
               style="height: 320px"
             />
@@ -187,7 +189,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/drstone.png"
+              src="~assets/newcommerpicture/drstone.png"
               alt="drstone"
               style="height: 320px"
             />
@@ -211,7 +213,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/martialpeak.png"
+              src="~assets/newcommerpicture/martialpeak.png"
               alt="martialpeak"
               style="height: 320px"
             />
@@ -235,7 +237,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/heavenlydemon.png"
+              src="~assets/newcommerpicture/heavenlydemon.png"
               alt="heavenlydemoninstrutor"
               style="height: 320px"
             />
