@@ -13,9 +13,47 @@
           </div>
         </div>
 
+        <div class="row gt-md">
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+          <div class="mangaBookBox brx"></div>
+        </div>
+
+        <div class="row lt-lg gt-sm">
+          <div class="mangaBookBox4 brx textWhite">1</div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+          <div class="mangaBookBox4 brx"></div>
+        </div>
+        <div class="row lt-md">
+          <div class="mangaBookBox3 brx textWhite">1</div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+          <div class="mangaBookBox3 brx"></div>
+        </div>
+
         <!-- bleach -->
         <div class="row">
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/bleach.png"
@@ -39,7 +77,7 @@
           <div class="imagegap"></div>
 
           <!-- dragonball -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/dragonball.png"
@@ -63,7 +101,7 @@
           <div class="imagegap"></div>
 
           <!-- one piece -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/onepiece.png"
@@ -87,7 +125,7 @@
           <div class="imagegap"></div>
 
           <!-- One Punch Man -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/onepunchman.png"
@@ -111,7 +149,7 @@
           <div class="imagegap"></div>
 
           <!-- rooftop -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/rooftop.png"
@@ -138,7 +176,7 @@
 
         <!-- baki -->
         <div class="row">
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/baki.png"
@@ -162,7 +200,7 @@
           <div class="imagegap"></div>
 
           <!-- Re:Monster -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/monster.png"
@@ -186,7 +224,7 @@
           <div class="imagegap"></div>
 
           <!-- Drstone -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/drstone.png"
@@ -210,7 +248,7 @@
           <div class="imagegap"></div>
 
           <!-- Martial Peak -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/martialpeak.png"
@@ -234,7 +272,7 @@
           <div class="imagegap"></div>
 
           <!-- Heavenly Demon Instructor -->
-          <div class="mangabox" align="center">
+          <div class="mangabox col" align="center">
             <img
               class="q-pt-md"
               src="~assets/newcommerpicture/heavenlydemon.png"
@@ -301,11 +339,24 @@ export default {
   background: #474747;
   width: 250px;
   height: 400px;
+  cursor: pointer;
 }
 .imagegap {
   width: 37px;
 }
 .tablegap {
   height: 25px;
+}
+.mangaBookBox {
+  width: 20%;
+  height: 400px;
+}
+.mangaBookBox4 {
+  width: 25%;
+  height: 400px;
+}
+.mangaBookBox3 {
+  width: 33.33%;
+  height: 400px;
 }
 </style>

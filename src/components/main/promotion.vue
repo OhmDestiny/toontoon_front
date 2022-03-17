@@ -7,7 +7,7 @@
     >
       <div class="">
         <q-carousel
-          class="bgPromotoinBar"
+          class="bgPromotoinBar cursor-pointer"
           v-model="slide"
           transition-prev="slide-right"
           transition-next="slide-left"
