@@ -30,22 +30,56 @@
           </q-carousel-slide>
           <q-carousel-slide :name="2">
             <div class="row items-center">
-              <q-img class="rounded-borders col-4" src="~assets/naruto.png" />
-              <q-img class="rounded-borders col-4" src="~assets/yaiba.png" />
+              <q-img class="rounded-borders col" src="~assets/bleach.png" />
+              <div class="coverGap"></div>
               <q-img
-                class="rounded-borders col-4"
-                src="~assets/dragonball.png"
+                class="rounded-borders col"
+                src="~assets/tokyorevenger.png"
+              />
+              <div class="coverGap"></div>
+              <q-img
+                class="rounded-borders col"
+                src="~assets/attackontitan.png"
               />
             </div>
           </q-carousel-slide>
           <q-carousel-slide :name="3">
             <div class="row items-center">
-              <q-img class="rounded-borders col-4" src="~assets/naruto.png" />
-              <q-img class="rounded-borders col-4" src="~assets/yaiba.png" />
+              <q-img class="rounded-borders col" src="~assets/drstone.png" />
+              <div class="coverGap"></div>
+              <q-img class="rounded-borders col" src="~assets/onepiece.png" />
+              <div class="coverGap"></div>
               <q-img
-                class="rounded-borders col-4"
-                src="~assets/dragonball.png"
+                class="rounded-borders col"
+                src="~assets/jujutsukaisen.png"
               />
+            </div>
+          </q-carousel-slide>
+          <q-carousel-slide :name="4">
+            <div class="row items-center">
+              <q-img class="rounded-borders col" src="~assets/myhero.png" />
+              <div class="coverGap"></div>
+              <q-img
+                class="rounded-borders col"
+                src="~assets/blackclover.png"
+              />
+              <div class="coverGap"></div>
+              <q-img class="rounded-borders col" src="~assets/fireforce.png" />
+            </div>
+          </q-carousel-slide>
+          <q-carousel-slide :name="5">
+            <div class="row items-center">
+              <q-img
+                class="rounded-borders col"
+                src="~assets/hunterxhunter.png"
+              />
+              <div class="coverGap"></div>
+              <q-img
+                class="rounded-borders col"
+                src="~assets/onepunchman.png"
+              />
+              <div class="coverGap"></div>
+              <q-img class="rounded-borders col" src="~assets/slime.png" />
             </div>
           </q-carousel-slide>
         </q-carousel>
