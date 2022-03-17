@@ -13,7 +13,7 @@
           </div>
         </div>
 
-        <div class="row gt-md">
+        <!-- <div class="row gt-md">
           <div class="mangaBookBox brx"></div>
           <div class="mangaBookBox brx"></div>
           <div class="mangaBookBox brx"></div>
@@ -49,7 +49,7 @@
           <div class="mangaBookBox3 brx"></div>
           <div class="mangaBookBox3 brx"></div>
           <div class="mangaBookBox3 brx"></div>
-        </div>
+        </div> -->
 
         <!-- bleach -->
         <div class="row">

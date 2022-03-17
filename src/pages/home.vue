@@ -6,7 +6,15 @@
     <continue-reading-box></continue-reading-box>
     <ad-banner></ad-banner>
     <popular-box></popular-box>
-    <tag></tag>
+    <div class="row items-center textAllColor rowBox">
+      <div class="font24 col-11">หมวดหมู่</div>
+      <div class="font14 col" align="right">เพิ่มเติม ></div>
+      <tag></tag>
+    </div>
+    <div>
+      <ad-banner></ad-banner>
+    </div>
+
     <preview-box></preview-box>
   </div>
 </template>
@@ -37,5 +45,10 @@ export default {
 <style lang="scss" scoped>
 .mainBg {
   background: #121212;
+}
+.rowBox {
+  margin: auto;
+  max-width: 1400px;
+  width: 100%;
 }
 </style>
