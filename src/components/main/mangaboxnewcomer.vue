@@ -16,7 +16,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/bleach.png"
+              src="~assets/new/bleach.png"
               alt="bleach"
               style="height: 320px"
             />
@@ -40,7 +40,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/dragonball.png"
+              src="~assets/new/dragonball.png"
               alt="dragonball"
               style="height: 320px"
             />
@@ -64,7 +64,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/onepiece.png"
+              src="~assets/new/onepiece.png"
               alt="onepiece"
               style="height: 320px"
             />
@@ -88,7 +88,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/onepunchman.png"
+              src="~assets/new/onepunchman.png"
               alt="onepunchman"
               style="height: 320px"
             />
@@ -112,7 +112,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/rooftop.png"
+              src="~assets/new/rooftop.png"
               alt="rooftop"
               style="height: 320px"
             />
@@ -139,7 +139,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/baki.png"
+              src="~assets/new/baki.png"
               alt="baki"
               style="height: 320px"
             />
@@ -163,7 +163,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/monster.png"
+              src="~assets/new/monster.png"
               alt="remonster"
               style="height: 320px"
             />
@@ -187,7 +187,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/drstone.png"
+              src="~assets/new/drstone.png"
               alt="drstone"
               style="height: 320px"
             />
@@ -211,7 +211,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/martialpeak.png"
+              src="~assets/new/martialpeak.png"
               alt="martialpeak"
               style="height: 320px"
             />
@@ -235,7 +235,7 @@
           <div class="mangabox" align="center">
             <img
               class="q-pt-md"
-              src="~assets/heavenlydemon.png"
+              src="~assets/new/heavenlydemon.png"
               alt="heavenlydemoninstrutor"
               style="height: 320px"
             />
