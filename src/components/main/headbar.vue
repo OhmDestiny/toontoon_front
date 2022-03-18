@@ -22,8 +22,8 @@
           <q-input dark v-model="searchBar" dense style="width: 240px" />
           <q-icon size="20px " name="fa-solid fa-magnifying-glass" />
         </div>
-        <div class="q-ma-md q-pt-xs bgLightIcon" align="center">
-          <q-icon size="25px" name="fa-solid fa-lightbulb" />
+        <div class="q-ma-md q-pt-xs" align="center">
+          <div class="textAllColor font12 darkModeBox">Dark mode</div>
         </div>
       </div>
     </div>
@@ -60,5 +60,13 @@ export default {
   height: 31px;
   background: #f6f7fb;
   border-radius: 10px;
+}
+.darkModeBox {
+  cursor: pointer;
+  width: 70px;
+  height: 30px;
+  line-height: 30px;
+  border: 1px solid#f6f7fb;
+  border-radius: 5px;
 }
 </style>
