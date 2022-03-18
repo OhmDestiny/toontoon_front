@@ -47,6 +47,7 @@
     <div class="q-pt-xl">
       <ad-banner></ad-banner>
     </div>
+    <div style="height: 100px"></div>
   </div>
 </template>
 
