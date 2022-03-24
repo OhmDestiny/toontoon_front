@@ -62,49 +62,49 @@
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/romantic.svg" alt="" />
+        <img src="~assets/tagicon/drama.svg" alt="" />
         <div>ดราม่า</div>
       </div>
       <div class="tagGap"></div>
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/phantasy.svg" alt="" />
+        <img src="~assets/tagicon/food.svg" alt="" />
         <div>ทำอาหาร</div>
       </div>
       <div class="tagGap"></div>
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/action.svg" alt="" />
+        <img src="~assets/tagicon/school.svg" alt="" />
         <div>โรงเรียน</div>
       </div>
       <div class="tagGap"></div>
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/magic.svg" alt="" />
+        <img src="~assets/tagicon/korea.svg" alt="" />
         <div>เกาหลี</div>
       </div>
       <div class="tagGap"></div>
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/funny.svg" alt="" />
+        <img src="~assets/tagicon/china.svg" alt="" />
         <div>จีน</div>
       </div>
       <div class="tagGap"></div>
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/ghost.svg" alt="" />
+        <img src="~assets/tagicon/onetake.svg" alt="" />
         <div>ตอนเดียวจบ</div>
       </div>
       <div class="tagGap"></div>
       <div
         class="col row tagBox justify-evenly textAllColor font24 items-center"
       >
-        <img src="~assets/tagicon/sport.svg" alt="" />
+        <img src="~assets/tagicon/fin.svg" alt="" />
         <div>จบแล้ว</div>
       </div>
     </div>
